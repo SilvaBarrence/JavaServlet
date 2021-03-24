@@ -7,4 +7,5 @@
     <fullyQualifiedTypeName name="br.com.alura.gerenciador.servlet.Banco"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
 </qualifiedTypeNameHistroy>
