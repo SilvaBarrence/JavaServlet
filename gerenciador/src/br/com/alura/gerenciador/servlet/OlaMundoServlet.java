@@ -8,7 +8,7 @@ import javax.servlet.ServletResponse;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 
-@WebServlet(urlPatterns = "/hello")
+//@WebServlet(urlPatterns = "/hello")
 public class OlaMundoServlet extends HttpServlet{
 	
 	@Override
